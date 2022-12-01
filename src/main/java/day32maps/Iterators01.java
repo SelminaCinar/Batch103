@@ -16,7 +16,7 @@ public class Iterators01 {
         myList.add("M");
 
         //for each loop kullanarak her elemanin sonuna ! ekleyiniz.
-   // Note:Loop'lar kendi balarina collection'lari update edemezler.
+   // Note:Loop'lar kendi baslarina collection'lari update edemezler.
         //Bu yuzden Java iterator'leri olusturdu.
         //Iterator'lar Collectionlari update etmek icin kullanilir.
         for (String w : myList) {

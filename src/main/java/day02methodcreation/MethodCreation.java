@@ -19,16 +19,19 @@ public class MethodCreation {
 
     //Example 1: Toplama islemi yapan bir method olusturunuz
     public static double toplamaYap(double a, double b){
+
         return a+b;
     }
 
     //Example 2: Uc sayiyi birbiri ile carpan bir method olusturunuz
     public static double ucSayiyiCarp(double a, double b, double c){
+
         return a*b*c;
     }
 
     //Example 3: Uc sayidan ilk ikisini toplayip ucuncu ile carpan method olusturup sonucu ekrana veriniz.
     public static double ilkIkiyiToplaUcuncuIleCarp (double a,double b,double c){
+
         return (a+b)*c;
     }
 

@@ -2,7 +2,7 @@ package day12loops;
 
 import java.util.Scanner;
 
-public class WhileLoops01 {
+public class  WhileLoops01 {
     public static void main(String[] args) {
 
         //Example 1: 3 den 10 a kadar tamsayilari ayni satirda yazdiran kodu yaziniz.
